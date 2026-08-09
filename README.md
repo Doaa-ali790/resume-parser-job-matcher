@@ -31,4 +31,4 @@ streamlit run app.py
 
 
 ## 🔗 Live Demo
-[Live Demo](Streamlit Cloud link after deployment)
+[[Live Demo]((https://resume-parser-job-matcher.streamlit.app/)
