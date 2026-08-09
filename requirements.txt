@@ -1,0 +1,8 @@
+streamlit
+pypdf
+pdfplumber
+python-docx
+scikit-learn
+pandas
+phonenumbers
+openpyxl
