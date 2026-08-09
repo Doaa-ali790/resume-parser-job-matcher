@@ -26,7 +26,7 @@ streamlit run app.py
 \`\`\`
 
 ## 📸 Screenshot
-<img width="800" height="621" alt="1786315451938" src="https://github.com/user-attachments/assets/05731fd2-9bda-497b-a49a-abaab853de99" />
+<img width="1482" height="621" alt="1786315451938" src="https://github.com/user-attachments/assets/5d0935a5-0c70-4679-b03f-05f7d74290dd" />
 
 
 
