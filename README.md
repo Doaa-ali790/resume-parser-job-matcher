@@ -26,7 +26,8 @@ streamlit run app.py
 \`\`\`
 
 ## 📸 Screenshot
-(Add a screenshot here after deployment)
+<img width="800" height="621" alt="1786315451938" src="https://github.com/user-attachments/assets/86f4355c-4bf0-4322-9f5c-3932b368e8b0" />
+
 
 ## 🔗 Live Demo
 [Live Demo](Streamlit Cloud link after deployment)
