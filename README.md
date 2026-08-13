@@ -31,4 +31,4 @@ streamlit run app.py
 
 
 ## 🔗 Live Demo
-[[Live Demo]((https://resume-parser-job-matcher.streamlit.app/)
+[[Live Demo]((https://resume-parser-job-matcher-gy3appusu6q5k3ftbogzelj.streamlit.app/)
